@@ -16,7 +16,7 @@ My name is *Emilia* and this will be my git repository for the **[Human Brain Co
 
 ## Info about me 
 
-|                     |
+|         |            |
 | ------------- |:-------------:|
 | Name      | Emilia   |
 | From      | Finland   |
