@@ -3,8 +3,6 @@
 
 ## About Me
 
-| About Me      |               |
-| ------------- |:-------------:|
 | Name          | Emilia        |
 | From          | Finland       |
 | Major         | Neuroscience  |
