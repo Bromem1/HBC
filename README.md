@@ -21,6 +21,10 @@ My name is *Emilia* and this will be my git repository for the **[Human Brain Co
 | Name      | Emilia|
 | From      | Finland|
 | Major      | Neuroscience      |
-| 3D model of my brain |      | 
+| Hobbies    | Bouldering     |
+
+A 3D model of my brain: 
+
+![alt text](https://github.com/emiliabroman/HBC/blob/master/3Dbrain.png?raw=true)
 
 
