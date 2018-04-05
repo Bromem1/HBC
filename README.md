@@ -3,7 +3,7 @@
 
 ## About Me
 
-| About Me                      |
+| About Me      |               |
 | ------------- |:-------------:|
 | Name          | Emilia        |
 | From          | Finland       |
