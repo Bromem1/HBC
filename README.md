@@ -25,6 +25,6 @@ My name is *Emilia* and this will be my git repository for the **[Human Brain Co
 
 A 2D image of a 3D model of my brain: 
 
-![alt text](https://github.com/emiliabroman/HBC/blob/master/3Dbrain.png?raw=true = 100)
+![alt text](https://github.com/emiliabroman/HBC/blob/master/3Dbrain.png?raw=true = 100x)
 
 
